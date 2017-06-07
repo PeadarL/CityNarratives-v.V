@@ -1,0 +1,19 @@
+<!-- Use String resources and Array even for large text content, separate files do no matter
+as it is the <string> tag that will identify it, this will also facilitate locatlisation
+Use an SQLite database-->
+<resources>
+    <string name="app_name">City Narratives</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_narrative">Location</string>
+    <string name="narrative_choice">Choose Narrative</string>
+    <string name="showLocation">Show Location</string>
+    <string name="narrativeQuestion">Where?</string>
+    <string name="checkLocation">Check</string>
+    <string name="title_activity_tour">Tours</string>
+
+    <!--My String Resources-->
+    <string name="joyce_table">Irish Writers</string>
+    <string name="music_table">Irish Music</string>
+    <string name="title_activity_visited_locations">Visited Locations</string>
+</resources>
